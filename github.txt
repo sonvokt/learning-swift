@@ -1,1 +1,5 @@
 # learning-swift
+
+hello world!
+i love you so much
+do you love me
